@@ -3,7 +3,8 @@
 Athar is a supply chain web application that utilizes blockchain technology.
 
 ## Getting Started 
-hgjbghwb
+1. Run ```git clone [repo link]```
+
 
 ## New title
 
