@@ -1,1 +1,1 @@
-# ![Athar Logo](./Main UI/img/atharLogo.png) Athar
+# ![Athar Logo](/Main UI/img/atharLogo.png) Athar
