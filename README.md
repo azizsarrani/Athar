@@ -1,1 +1,1 @@
-# ![Athar Logo](./Users/aziz/Documents/GitHub/Athar/Main UI/img/atharLogo.png)
+# ![Athar Logo](./Main UI/img/atharLogo.png) Athar
