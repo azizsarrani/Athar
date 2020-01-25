@@ -1,4 +1,4 @@
-# <p><img src= "Main UI/img/atharLogo.png" width="640" align= "middle"></p>
+# <p><img src= "Main UI/img/atharLogo.png" width="640" align= "center"></p>
 
 Athar is a supply chain web application that utilizes blockchain technology.
 
