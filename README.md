@@ -3,7 +3,7 @@
 Athar is a supply chain web application that utilizes blockchain technology.
 
 ## Project Preview
-<p><img src="Main UI/img/AtharDashboardPreview.png"></p>
+<p align="center"><img src="Main UI/img/AtharDashboardPreview.png" width="718"></p>
 
 ## Required Software
 * NodeJS
